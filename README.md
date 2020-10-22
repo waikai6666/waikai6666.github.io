@@ -1,1 +1,4 @@
-# waikai6666.github.io
+# my first github page
+
+* A list
+* * A point
